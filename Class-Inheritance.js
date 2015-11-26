@@ -60,7 +60,7 @@ function newUser(answer,fn){
 		case 'y':
 			 // reading input from CLI by asking a question
 			rl.question("What is your name?", function(name) {
-				// reading another input from CLI after the user gives answer to irst question
+				// reading another input from CLI after the user gives answer to the first question
 				rl.question("Enter your batch and department:", function(className) {
 
 				/*
