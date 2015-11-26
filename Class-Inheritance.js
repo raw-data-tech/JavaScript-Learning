@@ -62,6 +62,10 @@ function newUser(answer,fn){
 			rl.question("What is your name?", function(name) {
 				// reading another input from CLI after the user gives answer to irst question
 				rl.question("Enter your batch and department:", function(className) {
+
+				/*
+					We uses 'new' keyword for creating an object of a class.
+				*/
 				var User = new Student(name,className);
 				rl.close();
 				fn(User); // This is a call back function passed when calling newUser function.
