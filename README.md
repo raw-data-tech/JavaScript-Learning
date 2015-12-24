@@ -3,4 +3,5 @@
 2. [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Guide/Introduction_to_Web_development)
 2. [Mozilla - Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 3. [Closures](http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/?utm_medium=email&utm_source=javascriptweekly)
+4. [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
